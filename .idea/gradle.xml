@@ -11,7 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/ejercicioprogramacion" />
             <option value="$PROJECT_DIR$/app/ejerciciopunto" />
+            <option value="$PROJECT_DIR$/app/ejerciciorayos" />
             <option value="$PROJECT_DIR$/app/ejerciciotemperatura" />
           </set>
         </option>

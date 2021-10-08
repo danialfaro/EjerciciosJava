@@ -10,3 +10,5 @@ rootProject.name = "EjerciciosJava"
 include ':app'
 include ':app:ejerciciopunto'
 include ':app:ejerciciotemperatura'
+include ':app:ejerciciorayos'
+include ':app:ejercicioprogramacion'
